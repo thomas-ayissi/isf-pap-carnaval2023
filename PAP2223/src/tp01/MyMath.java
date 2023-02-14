@@ -10,14 +10,13 @@ import java.util.Scanner;
 public class MyMath {
 
 	/**
-	 * Vérifie si le nombre est pair
+	 * VÃ©rifie si le nombre est pair
 	 * 
 	 * @param n entier >=0
 	 * @return true si pair
 	 */
 	public static boolean estPair(int n) {
-		assert n >= 0 : "n doit être un entier >=0";
-
+		assert n >= 0 : "n doit Ãªtre un entier >=0";
 		return n % 2 == 0;
 	}
 

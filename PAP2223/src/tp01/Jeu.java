@@ -21,7 +21,7 @@ public class Jeu {
 			else if (nbr > secret)
 				System.out.println("Trop grand");
 			else {
-				System.out.println("Super tu l'as trouvé");
+				System.out.println("Super tu l'as trouvÃ©");
 				trouve = true;
 			}
 		} while (!trouve);
