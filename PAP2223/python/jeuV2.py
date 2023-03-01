@@ -10,4 +10,3 @@ while n != secret:
     elif n>secret :
         print("Le nombre est trop grand")
 print("Super tu as trouvé !!!")
-        
