@@ -1,5 +1,4 @@
 import random
-
 secret = random.randint(0,100)
 #print(secret)
 n=102 #pour rentrer dans la boucle
